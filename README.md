@@ -1,1 +1,1 @@
-### Lottery Dapp example
+### Lottery Contract example
